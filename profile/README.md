@@ -1,2 +1,2 @@
 # Decision Contracts
-> Smarter contracts make decisions
+**Smarter contracts make decisions**
