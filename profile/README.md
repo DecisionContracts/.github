@@ -100,6 +100,29 @@ just like it happened in non-blockchain systems!**
 | Usually are not so smart. | Always make a smart decision.                                                               |
 | Are not contracts.        | Anytime you ask the same question, the answer (decision) will be the same. It's a contract. |
 
+## What about the adoption of Decision Contracts?
+
+Does anyone develop decision logic on blockchains today?
+
+Yes, Smart Contract developers do it every day. They implement decision logic inside the Smart Contract,
+right along with business process execution logic.
+
+Why has nobody separated **Decision Contracts** from Smart Contracts yet?
+
+Because it makes no sense to split the code into two artifacts without introducing a new **VALUE**.
+Why have the hassle of two types of contracts, when the existing one - Smart Contract - does the job?
+If adopting DMN could provide a new value in the designing decision logic, why it is not adopted yet?
+It can be only speculated, but after successful article and presentation of Stephen Haarmann,
+many people could start thinking about "translating" DMN to Smart Contract using programming languages like Solidity.
+They have fallen in a trap we did. We were thinking about compiling DMN into WebAssembly when we have learned about CosmWasm.
+But this is a dead-end.
+
+DMN provides enormous **VALUE** but is complex to implement and will not fit into any Smart Contract known today...
+
+... **so we need a flip, similar to this one:**
+
+
+
 ## References
 
 - [DMN Decision Execution on the Ethereum Blockchain][1] (article from 20 June 2018)
