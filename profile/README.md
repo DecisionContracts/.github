@@ -80,6 +80,19 @@ just like it happened in non-blockchain systems!**
   - logistics,
   - and many others (think of any complex business processes executed by one central authority that could be moved to blockchain).
 
+## Smart Contracts vs Decision Contracts
+
+### In all seriousness
+
+| Smart Contracts                                                | Decision Contracts                                                           |
+|----------------------------------------------------------------|------------------------------------------------------------------------------|
+| Are about _**automating**_ and _**executing**_ business logic. | Are about _**making choices**_ based on provided _**conditions**_.           |
+| Are usually stateful (if do anything meaningful).              | Are always stateless, without side-effects (idempotent).                     |
+| Can be perceived as _**Business Process Executor**_.           | Can be perceived as _**Decision Provider**_ for _Business Process Executor_. |
+
+- The **concerns** and **responsibilities** of both types of contracts are clearly **separated**.
+- **They do not compete**; instead, they collaborate to achieve a common goal: the successful completion of the business process executed on blockchain, meeting real-life needs and expectations.
+
 ## References
 
 - [DMN Decision Execution on the Ethereum Blockchain][1] (article from 20 June 2018)
