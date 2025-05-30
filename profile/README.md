@@ -59,8 +59,8 @@ those processes and decision logic needed to meet real-life expectations.
 Ethereum is almost a decade in use, and hundreds of other blockchains run business processes
 using Smart Contracts...
 
-> ... it's time to introduce **Decision Contracts** to support their further development
-> just like it happened in non-blockchain systems!
+... **it's time to introduce DECISION CONTRACTS to support further development of business processes,
+just like it happened in non-blockchain systems!**
 
 ## References
 
