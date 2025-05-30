@@ -121,10 +121,10 @@ DMN provides enormous **VALUE** but is complex to implement and will not fit int
 
 ... **so we need a flip, similar to this one:**
 
-| Traditional                                                     | Flipped                                                |
-|-----------------------------------------------------------------|--------------------------------------------------------|
-| ![before](./before.png)                                         | ![after](./after.png)                                  |
-| Practical, always ready to use, but leaves pepper on the table. | Practical, always ready to use, but keeps table clean. |
+|                               Traditional                               |                            Flipped                             |
+|:-----------------------------------------------------------------------:|:--------------------------------------------------------------:|
+|                         ![before](./before.png)                         |                     ![after](./after.png)                      |
+| Practical, always ready to use,<br/>but **leaves pepper** on the table. | Practical, always ready to use,<br/>and **keeps table clean**. |
 
 ## References
 
