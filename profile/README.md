@@ -93,6 +93,13 @@ just like it happened in non-blockchain systems!**
 - The **concerns** and **responsibilities** of both types of contracts are clearly **separated**.
 - **They do not compete**; instead, they collaborate to achieve a common goal: the successful completion of the business process executed on blockchain, meeting real-life needs and expectations.
 
+### In a light-hearted manner
+
+| Smart Contracts           | Decision Contracts                                                                          |
+|---------------------------|---------------------------------------------------------------------------------------------|
+| Usually are not so smart. | Always make a smart decision.                                                               |
+| Are not contracts.        | Anytime you ask the same question, the answer (decision) will be the same. It's a contract. |
+
 ## References
 
 - [DMN Decision Execution on the Ethereum Blockchain][1] (article from 20 June 2018)
