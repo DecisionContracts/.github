@@ -29,17 +29,17 @@ As an introduction, we would like to cite an excerpt from Stephan Haarmann's [ar
 
 ### Milestones in the history of blockchain, BPMN and DMN
 
-| Year | Non-blockchain | Blockchain | Comments                                                                                                                                                          |
-|:----:|:--------------:|:----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2007 |    BPMN 1.0    |            | Early adoption in the industry, every company wanted to have automated business processes.                                                                        | 
-| 2008 |                |  Bitcoin   | No business process support.                                                                                                                                      | 
-| 2010 |    BPMN 2.0    |            | Automating business processes is already widely adopted.                                                                                                          | 
-| 2014 |                |  Ethereum  | Business processes can be supported by **Smart Contracts**.                                                                                                       | 
-| 2014 |                | Tendermint | Jae Kwon invents Tendermint.                                                                                                                                      | 
-| 2015 |    DMN 1.0     |            | Early adoption in the industry. Effect of real life experience using BPMN.                                                                                        | 
-| 2016 |                |   Cosmos   | Cosmos Whitepaper published.                                                                                                                                      | 
-| 2018 |    DMN 1.1     |  Ethereum  | Stephan Haarmann writes his [article][1] about executing DMN models on Ethereum.                                                                                  | 
-| 2024 |    DMN 1.5     |  **???***  | DMN is widely adopted in the industry [10], tools created by Trisotech, Oracle, RedHat, Camunda, Engos Software and others. **STILL NO ADOPTION IN BLOCKCHAINS**. | 
+| Year | Non-blockchain | Blockchain | Comments                                                                                                                                                              |
+|:----:|:--------------:|:----------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2007 |    BPMN 1.0    |            | Early adoption in the industry, every company wanted to have automated business processes.                                                                            | 
+| 2008 |                |  Bitcoin   | No business process support.                                                                                                                                          | 
+| 2010 |    BPMN 2.0    |            | Automating business processes is already widely adopted.                                                                                                              | 
+| 2014 |                |  Ethereum  | Business processes can be supported by **Smart Contracts**.                                                                                                           | 
+| 2014 |                | Tendermint | Jae Kwon invents Tendermint.                                                                                                                                          | 
+| 2015 |    DMN 1.0     |            | Early adoption in the industry. Effect of real life experience using BPMN.                                                                                            | 
+| 2016 |                |   Cosmos   | Cosmos Whitepaper published.                                                                                                                                          | 
+| 2018 |    DMN 1.1     |  Ethereum  | Stephan Haarmann writes his [article][1] about executing DMN models on Ethereum.                                                                                      | 
+| 2024 |    DMN 1.5     |  **???**   | DMN is widely adopted in the industry [10], tools created by Trisotech, Oracle, RedHat, Camunda, Engos Software and others.</br>**STILL NO ADOPTION IN BLOCKCHAINS**. | 
 
 ## References
 
