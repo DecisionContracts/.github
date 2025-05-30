@@ -4,9 +4,11 @@
 
 ---
 
-## Why bother with Decision Contracts?
+## Why bother with Decision Contracts on blockchains?
 
-As an answer, I would like to cite an excerpt from Stephan Haarmann's [article][1]:
+### Introduction
+
+As an introduction, we would like to cite an excerpt from Stephan Haarmann's [article][1]:
 
 > _"Recently blockchain technology has been introduced to **execute interacting business
 > processes** in a secure and transparent way. While the foundations for process
@@ -17,6 +19,13 @@ As an answer, I would like to cite an excerpt from Stephan Haarmann's [article][
 > the interacting processes, so that decision taking will be more **secure**, more
 > *transparent**, and better **auditable**."_
 
+### Key takeaways
+
+- Business processes are already executed on blockchains as **Smart Contracts**.
+- Non-trivial **business processes** need non-trivial **decisions** during their execution.
+- Decisions are **essential** for interacting business processes.
+- Decision logic must be **immutable** to be **secure**, **transparent** and **auditable**.
+- Decisions should be separated from the business process logic as **Decision Contracts**. 
 
 ## References
 
