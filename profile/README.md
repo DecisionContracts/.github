@@ -126,6 +126,17 @@ DMN provides enormous **VALUE** but is complex to implement and will not fit int
 |                         ![before](./before.png)                         |                     ![after](./after.png)                      |
 | Practical, always ready to use,<br/>but **leaves pepper** on the table. | Practical, always ready to use,<br/>and **keeps table clean**. |
 
+The right solution is almost there! CosmWasm is a first-class Cosmos module that brings Smart Contracts to life.
+Instead of squeezing DMN into Smart Contract, a new Cosmos module should be used.
+This could be a first-class Cosmos module that brings Decision Contracts to life.
+
+The idea behind is a flip shown above is: why to put DMN (Decision Contract) inside a Smart Contract,
+when Smart Contract could just query Decision Contract provided in separate Cosmos module.
+ 
+Querying like the bank, Smart Contract could query the Decision Contract:
+- _"Hey buddy, should I slash this address or not?"_
+
+
 ## References
 
 - [DMN Decision Execution on the Ethereum Blockchain][1] (article from 20 June 2018)
