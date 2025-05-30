@@ -41,6 +41,27 @@ As an introduction, we would like to cite an excerpt from Stephan Haarmann's [ar
 | 2018 |    DMN 1.1     |  Ethereum  | Stephan Haarmann writes his [article][1] about executing DMN models on Ethereum.                                                                                      | 
 | 2024 |    DMN 1.5     |  **???**   | DMN is widely adopted in the industry [10], tools created by Trisotech, Oracle, RedHat, Camunda, Engos Software and others.</br>**STILL NO ADOPTION IN BLOCKCHAINS**. | 
 
+## Where is the analogy?
+
+Before 2007, transaction systems were implementing business processes, although there
+was no precise specification. There was a need for such specification to be able to discover,
+design, deploy, test, govern and optimize business processes in standarized way in different industries.
+
+The same happened on Ethereum. There was simply a need for executing business
+processes. And although there is no BPM execution engine run on blockchain,
+**Smart Contracts** written by hand do the job. So all blockchains have adopted a concept
+of Smart Contracts to be able to run business processes. 
+
+After almost a decade of developing business processes using BPMN, the industry have
+discovered a need of introducing DMN to tackle with continuously increasing complexity of
+those processes and decision logic needed to meet real-life expectations.
+
+Ethereum is almost a decade in use, and hundreds of other blockchains run business processes
+using Smart Contracts...
+
+> ... it's time to introduce **Decision Contracts** to support their further development
+> just like it happened in non-blockchain systems!
+
 ## References
 
 - [DMN Decision Execution on the Ethereum Blockchain][1] (article from 20 June 2018)
