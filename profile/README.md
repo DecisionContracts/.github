@@ -62,6 +62,24 @@ using Smart Contracts...
 ... **it's time to introduce DECISION CONTRACTS to support further development of business processes,
 just like it happened in non-blockchain systems!**
 
+## Why bother with Decision Contracts on Cosmos chains?
+
+- Cosmos chains are using **CosmWasm**, the first-class virtual machine for executing **Smart Contracts** written in Rust.
+- **CosmWasm** is secure, transparent, auditable, reliable and cost-effective (in terms of execution).
+- Utilizing **CosmWasm**, Cosmos blockchains can deliver first-class solutions for business process execution using **Smart Contracts**.
+- Non-trivial **Smart Contracts** are not easy to develop, test and maintain, no-matter in which programming language are developed.
+- There is a natural barrier of the complexity of the business process that can be effectively implemented using only **Smart Contracts**.
+- In current Cosmos technology landscape there is a niche for introducing **Decision Contracts**, that would unlock the users to build blockchain solutions that address more complex real-life needs.
+- A first class virtual machine for executing **Decision Contracts** could be a game changer in technologies that support complex business logic execution on blockchains, in such industries like:
+  - agricultural supply chains,
+  - open data registries,
+  - international money transfers,
+  - central bank digital currencies,
+  - electricity contract selection and switching process,
+  - electricity prosumers registries and clearing,
+  - logistics,
+  - and many others (think of any complex business processes executed by one central authority that could be moved to blockchain).
+
 ## References
 
 - [DMN Decision Execution on the Ethereum Blockchain][1] (article from 20 June 2018)
