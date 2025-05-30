@@ -133,7 +133,7 @@ This could be a first-class Cosmos module that brings Decision Contracts to life
 The idea behind is a flip shown above is: why to put DMN (Decision Contract) inside a Smart Contract,
 when Smart Contract could just query Decision Contract provided in separate Cosmos module.
  
-Querying like the bank, Smart Contract could query the Decision Contract:
+Querying like the bank, Smart Contract could just query the Decision Contract:
 - _"Hey buddy, should I slash this address or not?"_
 
 
